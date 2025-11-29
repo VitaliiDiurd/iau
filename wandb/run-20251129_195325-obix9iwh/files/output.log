@@ -1,0 +1,176 @@
+Random Forest Accuracy: 0.8733744010951403
+Precision: 0.8731589908916827
+Recall: 0.8733744010951403
+
+📊 MODEL INFORMATION:
+Number of trees: 200
+Average tree depth: 23.9
+Average leaves per tree: 794.2
+
+🏆 TOP 5 FEATURES:
+1. Feature_3: 0.4795
+2. Feature_0: 0.2407
+3. Feature_1: 0.1498
+4. Feature_2: 0.1300
+
+📊 MODEL INFORMATION:
+Number of trees: 200
+Average tree depth: 23.9
+Average leaves per tree: 794.2
+
+🏆 TOP 5 FEATURES:
+1. Feature_3: 0.4795
+2. Feature_0: 0.2407
+3. Feature_1: 0.1498
+4. Feature_2: 0.1300
+Accuracy: 0.8665145464917284
+Precision: 0.8660468565652175
+Recall: 0.8665145464917284
+Train Accuracy: 0.8665
+Test Accuracy:  0.8480
+Difference: 0.0185
+NO OVERFITTING
+C:\Users\USER\anaconda4\Lib\site-packages\sklearn\base.py:1389: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  return fit_method(estimator, *args, **kwargs)
+Random Forest Accuracy: 0.8744010951403148
+Precision: 0.8870122306348281
+Recall: 0.8979952830188679
+Accuracy:  0.8135
+Precision: 0.8129
+Recall:    0.8135
+Random Forest is better
+
+📊 MODEL INFORMATION:
+Number of trees: 200
+Average tree depth: 23.9
+Average leaves per tree: 792.5
+
+🏆 TOP 5 FEATURES:
+1. Feature_3: 0.4885
+2. Feature_0: 0.2296
+3. Feature_1: 0.1526
+4. Feature_2: 0.1293
+
+MODEL INFORMATION:
+Number of trees: 200
+Average tree depth: 23.9
+Average leaves per tree: 792.5
+
+🏆 TOP 5 FEATURES:
+1. Feature_3: 0.4885
+2. Feature_0: 0.2296
+3. Feature_1: 0.1526
+4. Feature_2: 0.1293
+
+MODEL INFORMATION:
+Number of trees: 200
+Average tree depth: 23.9
+Average leaves per tree: 792.5
+
+TOP 5 FEATURES:
+1. Feature_3: 0.4885
+2. Feature_0: 0.2296
+3. Feature_1: 0.1526
+4. Feature_2: 0.1293
+3.2(E) VYHODNOTENIE NATRÉNOVANÝCH MODELOV
+RANDOM FOREST:
+Accuracy:  0.8744
+Precision: 0.8870
+Recall:    0.8980
+
+ID3 (tvoja implementácia):
+Train Accuracy: 0.8665
+Test Accuracy:  0.8480
+Difference:     0.0185
+
+LOGISTIC REGRESSION:
+Accuracy:  0.8135
+Precision: 0.8129
+Recall:    0.8135
+
+3.2(E) - VŠETKY MODELY VYHODNOTENÉ!
+3.2(E) VYHODNOTENIE NATRÉNOVANÝCH MODELOV
+RANDOM FOREST:
+Accuracy:  0.8744
+Precision: 0.8870
+Recall:    0.8980
+
+ID3 (tvoja implementácia):
+Train Accuracy: 0.8665
+Test Accuracy:  0.8480
+Difference:     0.0185
+
+LOGISTIC REGRESSION:
+Accuracy:  0.8135
+Precision: 0.8129
+Recall:    0.8135
+RANDOM FOREST:
+Accuracy:  0.8744
+Precision: 0.8870
+Recall:    0.8980
+
+ID3 (tvoja implementácia):
+Train Accuracy: 0.8665
+Test Accuracy:  0.8480
+Difference:     0.0185
+
+LOGISTIC REGRESSION:
+Accuracy:  0.8135
+Precision: 0.8129
+Recall:    0.8135
+RANDOM FOREST:
+Accuracy:  0.8744
+Precision: 0.8870
+Recall:    0.8980
+
+ID3 (tvoja implementácia):
+Train Accuracy: 0.8665
+RANDOM FOREST:
+Accuracy:  0.8744
+Precision: 0.8870
+Recall:    0.8980
+
+ID3 (tvoja implementácia):
+Train Accuracy: 0.8665
+RANDOM FOREST:
+Accuracy:  0.8744
+Precision: 0.8870
+Recall:    0.8980
+
+ID3 (tvoja implementácia):
+Train Accuracy: 0.8665
+Test Accuracy:  0.8660
+Recall:     0.8665
+
+LOGISTIC REGRESSION:
+Accuracy:  0.8135
+Precision: 0.8129
+Recall:    0.8135
+RANDOM FOREST:
+Accuracy:  0.8744
+Precision: 0.8870
+Recall:    0.8980
+
+ID3:
+Train Accuracy: 0.8665
+Precisiony:  0.8660
+Recall:     0.8665
+
+LOGISTIC REGRESSION:
+Accuracy:  0.8135
+Precision: 0.8129
+Recall:    0.8135
+RANDOM FOREST:
+Accuracy:  0.8744
+Precision: 0.8870
+Recall:    0.8980
+
+ID3:
+Train Accuracy: 0.8665
+Precision:  0.8660
+Recall:     0.8665
+
+LOGISTIC REGRESSION:
+Accuracy:  0.8135
+Precision: 0.8129
+Recall:    0.8135

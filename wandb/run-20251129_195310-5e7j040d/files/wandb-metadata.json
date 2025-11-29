@@ -1,0 +1,39 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "CPython 3.13.5",
+  "startedAt": "2025-11-29T17:53:10.371923Z",
+  "program": "Desktop/iau/IAU_project/nb-s/final3.ipynb",
+  "codePath": "Desktop/iau/IAU_project/nb-s/final3.ipynb",
+  "git": {
+    "remote": "https://github.com/VitaliiDiurd/iau.git",
+    "commit": "656939ea6a34677fd288d245e3c8e0b679b0487b"
+  },
+  "email": "citalik12@gmail.com",
+  "root": "C:\\Users\\USER\\Desktop\\iau\\IAU_project\\nb-s",
+  "host": "DESKTOP-01C3ELH",
+  "executable": "C:\\Users\\USER\\anaconda4\\python.exe",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "gpu": "NVIDIA GeForce RTX 2050",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "511417389056",
+      "used": "379843080192"
+    }
+  },
+  "memory": {
+    "total": "16887730176"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 2050",
+      "memoryTotal": "4294967296",
+      "cudaCores": 2048,
+      "architecture": "Ampere",
+      "uuid": "GPU-77bc31b9-fe02-59cd-8339-dd6350b3cc09"
+    }
+  ],
+  "cudaVersion": "12.9",
+  "writerId": "tfxnb661fr7ijtw2u3cwh8c5brrmggid"
+}
